@@ -51,4 +51,5 @@ Perfect for small businesses, landlords, and property managers looking for an ef
 ```bash
 cd backend
 npm install
-npm run start
+npm run dev
+
